@@ -1,0 +1,7 @@
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\bin\Debug\EasyHook.dll
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\obj\Debug\ClassLibrary1.vbprojAssemblyReference.cache
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.CopyComplete
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\TonyPC\Desktop\HookRemote\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
